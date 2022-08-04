@@ -138,3 +138,12 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+
+    @media (max-width: 991px) {
+      .offset-md-1{
+        margin-left: 3.1% ;
+      }
+    
+    }
+
+    
